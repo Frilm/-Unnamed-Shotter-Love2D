@@ -1,0 +1,115 @@
+Changelog DEVELOPER edition!
+Список Изменений Для Разрабов!
+
+------------------------
+
+English:
+
+[Version 0.1.0 Alpha]:
+
+[Added]:
+Most Basic Things and blablabla
+
+------------------------
+
+[Version 0.1.0.5 or 0.1.1 :/ Alpha]:
+
+[Added]:{
+.Now Player Look To Mouse
+.Last.png in libraries/sti/Secret
+}
+
+------------------------
+
+[Version 0.1.1.5 Alpha]:
+
+[Added]:{
+.Woah, there is main menu now!
+.Main Menu Soundtrack added too!
+.Funny.ogg in libraries/sti/Secr$%
+.Now we have button ESCAPE that makes game shutdown, lol?
+}
+
+------------------------
+
+[Version 0.1.2 Alpha]:
+
+[Added]:{
+.WOOOO, added options and display options!!
+.There is creepy photo too!
+.libraries/sti/Secret/Red.. Hell, it starts.png appeared??
+}
+
+[Version 0.1.2.1 Alpha Test Build 1]:
+
+[Added But Not Improved]:{
+.Gun Now Shoot!
+.Zombies Now Spawn And Follow Player At Random Speed
+.BulletSpeed Was Increased
+}
+
+[Bad Things :< )]:{
+.Bullet Doesn't Hit Wall or Zombie
+.Zombie Doesn't Hurt Player
+.Please don't turn spectogram when you listening libraries/sti/Secret/Funny.ogg
+
+That's it :/
+}
+
+
+////////////////////////////////////////////
+
+
+русский:
+
+[Версия 0.1.0 Альфа]:
+
+[Добавлено]:
+Много обычных вещей и блаблабла
+
+------------------------
+
+[Версия 0.1.0.5 или 0.1.1 :/ Альфа]:
+
+[Добавлено]:{
+.Теперь Игрок Смотрит в сторону мыши
+.Last.png в libraries/sti/Secret
+}
+
+------------------------
+
+[Версия 0.1.1.5 Альфа]:
+
+[Добавлено]:{
+.Воуу,здесь еще и меню появилось!
+.Саундтрек для меню тоже!
+.Funny.ogg в libraries/sti/Secret
+.Теперь у нас есть кнопка ESCAPE которая заставляет игру вырубиться, лол?
+}
+
+------------------------
+
+[Версия 0.1.2 Альфа]:
+
+[Добавлено]:{
+.ВООООУ, добавлены настройки и настройки дисплея!!
+.Здесь криповая картинка тоже!
+.libraries/sti/Secret/Red.. Hell, it starts.png Появился??
+}
+
+[Версия 0.1.2.1 Альфа Тестовый Билд 1]:
+
+[Добавлено, Но Не Доделано]:{
+.Оружие Теперь Стреляет!
+.Зомби Теперь Спавнятся И Следуют За Игроком На Разной Скорости
+.Скорость Пули Повышена
+}
+
+[Плохие Вещи)]:{
+.Пули Не Могут Удариться Об Стену Или Зомби
+.Зомби Не Могут Ранить Игрока
+.Пожалуйста, не включайте спектограмму когда слушаете libraries/sti/Secret/Funny.ogg
+
+Вот так :/
+}
+
